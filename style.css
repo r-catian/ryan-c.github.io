@@ -222,7 +222,7 @@ line-height: 2rem;
 /* third parallax */
 
 .third-parallax {
-  background-image: url('/img/images-2.avif');
+  background-image: url('img/images-2.avif');
   min-height: 300px;
 
 }
