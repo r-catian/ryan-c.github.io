@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ryan-c.github.io
 =======
 # mark-c.github.io
@@ -11,3 +12,6 @@
 =======
 # trial-c.github.io
 >>>>>>> 37e91c1b547e634dce6b4057438a0e6c0577c996
+=======
+# ryan-c.github.io
+>>>>>>> b9d6058772b5f236b9666f22720e05b7fabc9df1
