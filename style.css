@@ -61,7 +61,7 @@ html { scroll-behavior: smooth; }
   }
 
   .second-parallax {
-    background-image: url('../img/codes.jpg');
+    background-image: url('img/codes.jpg');
     min-height: 300px;
   }
 
